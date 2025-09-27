@@ -11,7 +11,7 @@ A modern, responsive portfolio website showcasing my skills as a Computer Scienc
 - **Interactive Elements**: Hover effects, animations, and smooth transitions
 - **Professional Sections**: 
   - Hero section with introduction
-  - About me with statistics
+  - About me 
   - Technical skills showcase
   - Personal interests and hobbies
   - Education background
@@ -43,27 +43,5 @@ The portfolio is fully responsive with optimized breakpoints:
 - **Touch Optimized**: 44px minimum touch targets for mobile
 - **Theme Toggle**: Persistent light/dark mode switching
 
-## 🚀 Getting Started
-
-1. Clone the repository
-2. Set up a local server (XAMPP, WAMP, or similar for PHP support)
-3. Open `index.php` in your browser
-4. Customize the content with your own information
-
-## 📧 Contact Form
-
-The contact form uses PHP to handle form submissions. Make sure you have:
-- PHP server environment
-- Proper mail configuration for `send_email.php`
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🌐 Live Demo
-
-Visit the live portfolio at: [oliviaduyen.com](https://oliviaduyen.com)
-
----
 
 Built with ❤️ by Olivia Le
