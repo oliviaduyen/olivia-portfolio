@@ -11,7 +11,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-8">
                 <div class="contact-form-container">
-                    <form id="contactForm" action="send_email.php" method="POST" class="contact-form">
+                    <form id="contactForm" action="sections/send_email.php" method="POST" class="contact-form">
                         <div class="row g-3">
                             <div class="col-md-6">
                                 <div class="form-floating">
