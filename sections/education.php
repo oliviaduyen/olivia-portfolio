@@ -13,11 +13,11 @@
                     </div>
                     <div class="education-timeline">
                         <div class="education-item" data-aos="fade-right" data-aos-delay="100">
-                            <div class="education-year">2025</div>
+                            <div class="education-year">2026</div>
                             <div class="education-details">
                                 <h4>Master's Degree in Computer Science</h4>
                                 <p class="education-institution">University of Texas at Arlington</p>
-                                <p class="education-description">Focused on advanced web development, database systems, and software engineering principles.</p>
+                                <p class="education-description">Focused on full-stack web development and software engineering, with practical experience in distributed systems, cloud-based applications, and AI-driven solutions.</p>
                             </div>
                         </div>
                         <div class="education-item" data-aos="fade-left" data-aos-delay="200">
