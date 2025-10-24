@@ -5,7 +5,7 @@
             <div class="hero-greeting">Hello, I'm</div>
             <h1 class="hero-name">Olivia Le</h1>
             <h2 class="hero-title"><span id="typewriter"></span></h2>
-            <p class="hero-description">I’m a Master’s student in Computer Science specializing in web development and software engineering. With hands-on experience in designing responsive user interfaces and building scalable back-end systems, I bring both creativity and technical rigor to every project.</p>
+            <p class="hero-description">I’m a Master’s student in Computer Science specializing in Intelligent Systems and Software Engineering. I enjoy developing intelligent, data-driven systems and deploying them as scalable, AI-powered web applications. My projects combine machine learning, distributed systems, and modern web technologies to build practical, reliable, and user-focused solutions.</p>
             <div class="hero-buttons">
                 <a href="#projects" class="btn btn-primary btn-modern">View My Work</a>
                 <a href="#contact" class="btn btn-outline-primary btn-modern">Get In Touch</a>

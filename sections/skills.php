@@ -11,28 +11,28 @@
                     <i class="bi bi-code-slash"></i>
                 </div>
                 <h4>Frontend Development</h4>
-                <p>HTML5, CSS3, JavaScript, Bootstrap, Responsive Design</p>
+                <p>React, Next.js, TypeScript, Tailwind CSS, Leaflet, Responsive Design</p>
             </div>
             <div class="skill-card" data-aos="zoom-in" data-aos-delay="200">
                 <div class="skill-icon">
                     <i class="bi bi-server"></i>
                 </div>
-                <h4>Backend Development</h4>
-                <p>PHP, MySQL, API Integration, Database Design</p>
+                <h4>Backend &amp; Systems</h4>
+                <p>PHP, MySQL, Python, gRPC, Docker, API Integration, Distributed Systems</p>
             </div>
             <div class="skill-card" data-aos="zoom-in" data-aos-delay="300">
                 <div class="skill-icon">
-                    <i class="bi bi-palette"></i>
+                    <i class="bi bi-robot"></i>
                 </div>
-                <h4>UI/UX Design</h4>
-                <p>User Experience, Interface Design, Prototyping</p>
+                <h4>AI &amp; Intelligent Systems</h4>
+                <p>Gemini API, OpenAI API, PyTorch, TensorFlow, Scikit-learn, Data Processing, Automation</p>
             </div>
             <div class="skill-card" data-aos="zoom-in" data-aos-delay="400">
                 <div class="skill-icon">
                     <i class="bi bi-gear"></i>
                 </div>
                 <h4>Development Tools</h4>
-                <p>Git, VS Code, Chrome DevTools, Performance Optimization</p>
+                <p>Git, Docker, Linux, AWS, VS Code, JUnit, JaCoCo, Performance Optimization</p>
             </div>
         </div>
     </div>

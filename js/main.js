@@ -1,5 +1,5 @@
 // Enhanced Typewriter Script
-const texts = ["Aspiring Software Engineer", "Full-Stack Developer", "UI/UX Enthusiast", "Driven Problem Solver"];
+const texts = ["Aspiring Software Engineer", "Full-Stack Developer", "Driven Problem Solver"];
 let count = 0,
     index = 0,
     currentText = "",
