@@ -6,6 +6,33 @@
             <div class="section-divider"></div>
         </div>
         <div class="row g-4">
+            <!-- Project 0: Web-Slinger Dispatch -->
+            <div class="col-md-6 col-lg-6" data-aos="fade-up" data-aos-delay="50">
+                <div class="card project-card h-100 shadow-sm border-0">
+                    <div class="card-body d-flex flex-column p-4">
+                        <div class="project-icon mb-3">
+                            <i class="bi bi-map text-primary" style="font-size: 2.5rem;"></i>
+                        </div>
+                        <h5 class="card-title mb-3">Web-Slinger Dispatch</h5>
+                        <p class="card-text flex-grow-1">
+                            Developed an AI-powered community-safety web app that crowdsources and visualizes real-time neighborhood incident reports, with multilingual support and an AI chatbot powered by the Gemini API for guided report creation. The app includes a secure, low-latency real-time backend (Convex + Auth0) enabling synchronized multi-user incident mapping with Leaflet, and was built with React, TypeScript, ElevenLabs, and Tailwind CSS for accessibility and responsiveness.
+                        </p>
+                        <div class="project-tech mb-3">
+                            <span class="tech-badge">React</span>
+                            <span class="tech-badge">TypeScript</span>
+                            <span class="tech-badge">Gemini API</span>
+                            <span class="tech-badge">Leaflet</span>
+                            <span class="tech-badge">ElevenLabs</span>
+                            <span class="tech-badge">Convex</span>
+                            <span class="tech-badge">Auth0</span>
+                            <span class="tech-badge">Tailwind CSS</span>
+                        </div>
+                        <a href="https://web-slinger-dispatch-production.up.railway.app/" target="_blank" class="btn btn-primary mt-auto">
+                            <i class="bi bi-external-link me-2"></i>View Project
+                        </a>
+                    </div>
+                </div>
+            </div>
             <!-- Project 1: U.S. Citizenship Study Guide -->
             <div class="col-md-6 col-lg-6" data-aos="fade-up" data-aos-delay="100">
                 <div class="card project-card h-100 shadow-sm border-0">
@@ -15,10 +42,7 @@
                         </div>
                         <h5 class="card-title mb-3">U.S. Citizenship Test Study Guide</h5>
                         <p class="card-text flex-grow-1">
-                            Built a bilingual interactive web application to help immigrants prepare for the
-                            U.S. naturalization test. Implemented flashcards, quizzes, and study tools in English
-                            and Vietnamese using JSON-based question sets. Added features such as language toggle,
-                            user accounts, and progress tracking to support long-term learning.
+                            Developed a full-stack web application to help users prepare for the U.S. naturalization test through interactive study content, flashcards, quizzes, and authentication. Implemented multilingual support with a language toggle to simplify the naturalization process and enhance accessibility. Structured a MySQL database using JSON formatting to efficiently store and retrieve 100+ civics questions in multiple languages.
                         </p>
                         <div class="project-tech mb-3">
                             <span class="tech-badge">PHP</span>

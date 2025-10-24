@@ -43,5 +43,3 @@ The portfolio is fully responsive with optimized breakpoints:
 - **Touch Optimized**: 44px minimum touch targets for mobile
 - **Theme Toggle**: Persistent light/dark mode switching
 
-
-Built with ❤️ by Olivia Le
